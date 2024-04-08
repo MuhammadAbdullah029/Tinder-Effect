@@ -1,0 +1,7 @@
+@font-face {
+    font-family: helve;
+    src: url(./media/font/HelveticaNowDisplay-Regular.woff2);
+}
+.detail-container{
+    background: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.9));
+}
