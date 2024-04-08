@@ -2,8 +2,8 @@
 
 let users = [
     {
-    profilePic: "/media/img/pr1.webp",
-    displayPic: "/media/img/pexels-agafonova-photo-5477855.webp", 
+    profilePic: "/media/pr1.webp",
+    displayPic: "/media/pexels-agafonova-photo-5477855.webp", 
     penddingMessage: 4, 
     location: "Munich, Germany", 
     name: "Jessica", 
@@ -24,8 +24,8 @@ let users = [
     },
 
     {
-        profilePic: "/media/img/pr3.webp", 
-        displayPic: "/media/img/pexels-cottonbro-studio-5473962.webp",
+        profilePic: "/media/pr3.webp", 
+        displayPic: "/media/pexels-cottonbro-studio-5473962.webp",
         penddingMessage: 7, 
         location: "Funchal, Portugal", 
         name: "Emili", 
@@ -46,8 +46,8 @@ let users = [
     },
 
     {
-        profilePic: "/media/img/pr4.webp", 
-        displayPic: "/media/img/pexels-dillon-kydd-5794559.webp",
+        profilePic: "/media/pr4.webp", 
+        displayPic: "/media/pexels-dillon-kydd-5794559.webp",
         penddingMessage: 16, 
         location: "Delhi, India", 
         name: "Ella", 
@@ -68,8 +68,8 @@ let users = [
     },
 
     {
-        profilePic: "/media/img/pr5.webp", 
-        displayPic: "/media/img/pexels-luiz-fernando-2922450.webp",
+        profilePic: "/media/pr5.webp", 
+        displayPic: "/media/pexels-luiz-fernando-2922450.webp",
         penddingMessage: 3, 
         location: "Delhi, india", 
         name: "Nishi", 
